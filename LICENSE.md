@@ -1,5 +1,1 @@
-Content from this repository can be freely used if:
-
-Proper credit is given to owner. (vexxedvc)
-You do not claim the content as your own.
-
+All files from this repository are licensed strictly under CC-BY-SA 3.0.
